@@ -132,4 +132,4 @@
 ### Projetos BearSystems
 
 - #### Clinica
-- 🏥 🚑 🚑 [Clínica](https://github.com/BearSystem/BSPolyClinic)
+- 🏥 🚑 🚑 [Clínica](https://github.com/BearSystem/BSPolyClinic) - Azure - [Partial API](https://bspolyclinic.azurewebsites.net/swagger/index.html)

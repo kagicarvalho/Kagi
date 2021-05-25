@@ -98,9 +98,38 @@
 
 <br/>  
 
-  
-
-<br/>  
+# Meus Projetos
 
 
-<br />
+### Estudos  
+- 🏦 [SOLID](https://github.com/kagicarvalho/SOLID-Example)  
+- 🏦 [Domínio Rico](https://github.com/kagicarvalho/DominiosRicos) 
+
+
+
+### NLW 5 
+- 📒 [NLW5 - Chat NodeJS](https://github.com/kagicarvalho/ProjetoNodeJs_NLW5)
+- 📒 [NLW5 - React JS](https://github.com/kagicarvalho/ProjetoReactJS_NLW5)
+- 📒 [NLW5 - React Native](https://github.com/kagicarvalho/ReactNative_NLW5)
+- 📒 [NLW5 - Flutter](https://github.com/kagicarvalho/Flutter_NLW5)
+- 📒 [NLW5 - Elixir](https://github.com/kagicarvalho/Elixir_NLW5)
+
+- 
+
+### Projetos
+
+- #### C#
+- 💵 📈 📉 [Controle Financeiro](https://github.com/kagicarvalho/ControleFinanceiro)
+- 💵 📊 📆 [Controle de Obrigações - Alpha](https://github.com/kagicarvalho/BearCO)
+- ✒️ 🔏:shipit: [BearTheme - Tema para projetos - Não finalizado - Privado](https://github.com/kagicarvalho/BearThemes)
+- 📚 🔏:shipit:	 [Bear System - Projeto para controle cursos - Não finalizado - Privado](https://github.com/kagicarvalho/BearSystem)
+- 💾 🔏:shipit:	 [PipeDrive SQL Server - Cria uma cópia dos dados do pipedrive - finalizado - Privado](https://github.com/kagicarvalho/SqlServerPipeDrive)
+
+- #### Java
+- 💵 📈 📉 [DS Vendas - Semana Spring React](https://github.com/kagicarvalho/ProjetoDSVendas)
+
+
+### Projetos BearSystems
+
+- #### Clinica
+- 🏥 🚑 🚑 [Clínica](https://github.com/BearSystem/BSPolyClinic)
